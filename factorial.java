@@ -3,11 +3,9 @@ class factorial
 {
 public static void main(String args[])
 {
-int x=5;
-  int fact=1;
-for(int i=1;i<=x;i++)
-fact=fact*i;
-System.out.println("Factorial is " +fact);
+int x=5,y=10;
+  
+System.out.println(x+y);
 }
 }
 
